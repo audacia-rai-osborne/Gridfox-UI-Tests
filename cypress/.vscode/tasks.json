@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "label": "Open Cypress Test Runner",
+      "detail": "Opens the Cypress Test Runner",
+      "script": "cypress:open",
+      "group": "test",
+      "problemMatcher": []
+    },
+  ]
+}
